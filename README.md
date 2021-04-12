@@ -1,0 +1,2 @@
+# Exploration_Robot_Project
+Our project is an endeavor showing that we are able to use arduino board and stuff from our garages  to create some cool exploration robot. It is also an indication of a lot sensors usage in project working together. We want to prove that, as young engineers, we are able to meet and create a robot that will be able to stand as even with some companies project with much cheaper price.
